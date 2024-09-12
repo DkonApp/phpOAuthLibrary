@@ -83,7 +83,7 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 
 ## Contact
 
-For any questions or inquiries, please contact [your_email@example.com].
+For any questions or inquiries, please contact https://dkon.app/dev .
 
 ---
 
